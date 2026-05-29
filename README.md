@@ -98,21 +98,6 @@ The model significantly outperforms traditional image processing approaches for 
 
 ---
 
-## 📂 Repository Structure
-
-```
-├── FDD_Final.ipynb                          # Full training pipeline (Jupyter Notebook)
-├── ICCCIS_Detecting Fruit Diseases using    # IEEE published paper (PDF)
-│   Deep Learning and Image Analysis.pdf
-├── Picture1.png                             # Sample result/architecture diagram
-├── Picture2.png                             # Sample result
-├── Picture3.png                             # Sample result
-├── Untitled Diagram.drawio.png              # Model architecture diagram
-└── README.md
-```
-
----
-
 ## 🛠️ Tech Stack
 
 | Tool / Library | Purpose |
