@@ -1,4 +1,4 @@
-# 🍎 Fruit Disease Detection using Deep Learning
+# 🍎 Fruit Disease Detection using VGG16
 
 > **VGG-16 CNN-based image classification model for automated early detection of fruit diseases — published at IEEE ICCCIS 2023.**
 
