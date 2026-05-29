@@ -160,13 +160,4 @@ jupyter notebook FDD_Final.ipynb
 
 ## 👤 Author
 
-**Deep Prakashbhai Dobariya**
-M.Sc. Artificial Intelligence — BTU Cottbus-Senftenberg
-[GitHub](https://github.com/DeepDobariya307) · [LinkedIn](https://www.linkedin.com/in/deep-dobariya-946816221/)
-
----
-
-## 📜 License
-
-This project is for academic and research purposes.
-Dataset sourced from publicly available agricultural image repositories.
+**Tushar Pareek**
