@@ -23,9 +23,6 @@ The work was **peer-reviewed and published at IEEE ICCCIS 2023**.
 **Detecting Fruit Diseases Using Deep Learning and Image Analysis**
 T. Pareek, D. Dobariya, T. Mahajan, D. Bhise
 *IEEE International Conference on Connected Computing, Intelligent-Systems and Signal Processing (ICCCIS), 2023*
-
-📎 [View Paper (PDF)](./ICCCIS_Detecting%20Fruit%20Diseases%20using%20Deep%20Learning%20and%20Image%20Analysis.pdf)
-
 ---
 
 ## 🎯 Objectives
